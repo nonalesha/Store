@@ -1,0 +1,23 @@
+{
+  "name": "Premium Hub - Katalog Premium",
+  "short_name": "Premium Hub",
+  "description": "Katalog aplikasi premium dan pemesanan via WhatsApp admin",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f1f2ed",
+  "theme_color": "#26320d",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
